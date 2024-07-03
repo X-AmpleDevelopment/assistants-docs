@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Assisants Technologies",
+  "name": "X-Ample Development",
   "logo": {
-    "dark": "/logo/Assistants_NoBG.svg",
-    "light": "/logo/Assistants_NoBG.svg"
+    "dark": "/logo/xample.png",
+    "light": "/logo/xample.png"
   },
   "favicon": "/favicon.png",
   "colors": {
@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:support@assistantscenter.com"
+      "url": "mailto:info@x-ampledevelopment.com"
     }
   ],
   "topbarCtaButton": {
@@ -172,7 +172,7 @@
     }
   ],
   "footerSocials": {
-    "discord": "https://discord.gg/6Yv5U9V3ux",
-    "github": "https://github.com/Discord-Dashboard"
+    "discord": "https://discord.gg/xampledev",
+    "github": "https://github.com/XAmple-Development"
   }
 }
